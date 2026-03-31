@@ -1,0 +1,5 @@
+{
+  "name": "InstaClone",
+  "description": "A feature-rich Instagram clone with real-time feed, stories, and social interactions powered by Firebase.",
+  "requestFramePermissions": []
+}
